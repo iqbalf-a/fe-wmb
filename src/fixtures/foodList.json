@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "foodId": "1",
+      "foodName": "Nasgor Goreng",
+      "price": "20000"
+    },
+    {
+      "foodId": "2",
+      "foodName": "Ayam Goreng",
+      "price": "15000"
+    },
+    {
+      "foodId": "3",
+      "foodName": "Eh Tes Manis",
+      "price": "5000"
+    },
+    {
+      "foodId": "4",
+      "foodName": "Mie Goreng",
+      "price": "10000"
+    },
+    {
+      "foodId": "5",
+      "foodName": "Soto",
+      "price": "20000"
+    },
+    {
+      "foodId": "6",
+      "foodName": "Mie Ayam",
+      "price": "15000"
+    },
+    {
+      "foodId": "7",
+      "foodName": "Nasgor Goreng Spesial",
+      "price": "25000"
+    }
+  ]
+}

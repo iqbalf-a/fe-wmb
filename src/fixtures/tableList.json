@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "tableId": "1",
+      "number": "H001",
+      "status": "available"
+    },
+    {
+      "tableId": "2",
+      "number": "H002",
+      "status": "unavailable"
+    },
+    {
+      "tableId": "3",
+      "number": "H003",
+      "status": "availabe"
+    },
+    {
+      "tableId": "4",
+      "number": "H004",
+      "status": "available"
+    },
+    {
+      "tableId": "5",
+      "number": "H005",
+      "status": "unavailable"
+    },
+    {
+      "tableId": "6",
+      "number": "H006",
+      "status": "unavailable"
+    },
+    {
+      "tableId": "7",
+      "number": "H007",
+      "status": "unavailable"
+    }
+  ]
+}
